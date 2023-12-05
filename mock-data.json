@@ -1,0 +1,48 @@
+{
+    "report": {
+      "data": [
+        {
+          "codigo": "camiseta-branca-P",
+          "unidades": 12,
+          "preco": 25,
+          "total": 300
+        },
+        {
+          "codigo": "camiseta-branca-M",
+          "unidades": 7,
+          "preco": 25,
+          "total": 175
+        },
+        {
+          "codigo": "camiseta-branca-G",
+          "unidades": 41,
+          "preco": 25,
+          "total": 1025
+        },
+        {
+          "codigo": "camiseta-branca-GG",
+          "unidades": 24,
+          "preco": 25,
+          "total": 600
+        },
+        {
+          "codigo": "calca-jeans-34",
+          "unidades": 5,
+          "preco": 53,
+          "total": 265
+        },
+        {
+          "codigo": "calca-jeans-36",
+          "unidades": 33,
+          "preco": 53,
+          "total": 1749
+        },
+        {
+          "codigo": "calca-jeans-38",
+          "unidades": 18,
+          "preco": 53,
+          "total": 954
+        }
+      ]
+    }
+}  
